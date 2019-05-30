@@ -40,6 +40,10 @@ Official blog for OpenAI
 
 Official blog for Google DeepMind
 
+[Distill] (https://distill.pub/)
+
+Interactive, web-based journal that highlights new deep learning research and tutorials, using interactive web displays and emphasizing clear, concise, explanations
+
 ## Misc
 
 [Sinho Chewi](https://chewisinho.github.io/) Excellent source for Latex formatted math notes
