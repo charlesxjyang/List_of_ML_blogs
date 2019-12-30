@@ -40,9 +40,11 @@ Official blog for OpenAI
 
 Official blog for Google DeepMind
 
-[Distill] (https://distill.pub/)
+[Distill](https://distill.pub/)
 
 Interactive, web-based journal that highlights new deep learning research and tutorials, using interactive web displays and emphasizing clear, concise, explanations
+
+[Colah's Blog](http://colah.github.io/)
 
 ## Misc
 
