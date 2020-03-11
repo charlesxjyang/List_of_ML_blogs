@@ -46,6 +46,8 @@ Interactive, web-based journal that highlights new deep learning research and tu
 
 [Colah's Blog](http://colah.github.io/)
 
+[Floydhub blog](https://blog.floydhub.com/)
+
 ## Misc
 
 [Sinho Chewi](https://chewisinho.github.io/) Excellent source for Latex formatted math notes
