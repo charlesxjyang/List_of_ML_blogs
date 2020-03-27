@@ -52,6 +52,8 @@ Interactive, web-based journal that highlights new deep learning research and tu
 
 Really nice visualizations of ML concepts
 
+[Andrej Karpathy](http://karpathy.github.io/)
+
 ## Misc
 
 [Sinho Chewi](https://chewisinho.github.io/) Excellent source for Latex formatted math notes
