@@ -48,6 +48,10 @@ Interactive, web-based journal that highlights new deep learning research and tu
 
 [Floydhub blog](https://blog.floydhub.com/)
 
+[Jay Alammar](https://jalammar.github.io/)
+
+Really nice visualizations of ML concepts
+
 ## Misc
 
 [Sinho Chewi](https://chewisinho.github.io/) Excellent source for Latex formatted math notes
